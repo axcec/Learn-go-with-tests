@@ -1,6 +1,6 @@
 ### i was noob back then, there was this anon guy used to go by with name of marty fowler(from r/devlopersindia) who started small cool cohart on discord. i was part of it till stage 2, later had too drop off becz i had to get job ASAP , but it was fun, i'll pick up this again soon.
 
-# update - as of nov 2025 i'm starting this again. 
+# update - as of dec 2025 i'm starting this again. 
 
 # Learn Go with Tests - Personal Progress Repository
 
